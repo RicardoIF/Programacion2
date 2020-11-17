@@ -6,4 +6,4 @@
 
 - Escribe git clone, y luego pega la URL siguiente https://github.com/RicardoIF/Programacion2.git
 
-- Presiona enter para crear en clon
+- Presiona enter para crear el clon.
