@@ -1,0 +1,16 @@
+1) Proceso: Persistencia multiplicativa
+2) Inicializar variables vNumero = 0, auxiliar = 0, vProseso = 1,
+vContador 
+3)Escribir: "ingresar un numero entero"
+4) Leer y asignar --> vNumero
+5) Si vNumero > 0 seguiente paso de lo contrario paso 12
+6) Separar: auxiliar = vNumero%10
+7) Multiplicar: vProceso = vProceso * axiliar
+8) Dividir: vNumero//10
+9) Volver al paso 4
+10) Asignar: vNumero = vProceso
+11) Asignar: vProceso = 1
+12) Sumar: vContador + 1
+13) Si vNumero > 10 vover al paso 4 de lo contrario 
+siguiente paso
+14)Escribir: ("Reseultado = ", vContador)
