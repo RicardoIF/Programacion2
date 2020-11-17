@@ -1,0 +1,8 @@
+Buscar la agenda
+Abrir la ajenda dandole doble clik izquierdo 
+Escribimos o buscamos la fecha del evento 
+Escribimos la hora en la que comienza
+Ecribimos la hora en que termina
+Ecribirle un comentario acerca del evento 
+Guardar en la agenda 
+Fin 
